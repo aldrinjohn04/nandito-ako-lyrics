@@ -10,8 +10,7 @@ A simple Python script that prints the lyrics of the song **"Nandito Ako"** with
 
 ## How It Works
 
-The lyrics are stored in a list of tuples:  
-```python ```
+The lyrics are stored in a list of tuples:  ```python ```
 ("line of lyrics", typing_duration, after_delay)
 
 Each line is printed one character at a time based on the typing_duration, then waits for the after_delay before printing the next line.
@@ -27,8 +26,8 @@ python nandito_ako.py
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 📣 Stay Connected
+📣 Stay Connected
 If you want more upcoming projects like this (lyrics animations, fun terminal scripts, and more):
 
-## 👉 Follow me on GitHub: @aldrinjohn04
+👉 Follow me on GitHub: @aldrinjohn04
 📱 Check out my TikTok for dev content and mini projects: @eddie_akoo
