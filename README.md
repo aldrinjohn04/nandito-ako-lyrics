@@ -21,7 +21,7 @@ Make sure you have Python installed (recommended Python 3.x).
 Download or clone this repository.
 
 Run the script in your terminal or command prompt:
-python nandito_ako.py
+python nandito-ako.py
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
